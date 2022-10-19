@@ -1,0 +1,82 @@
+{
+    "$schema": "https://urldefense.com/v3/__https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lfMDItvv$  ",
+    "manifestVersion": "1.5",
+    "version": "1.7.3",
+    "id": "05db8546-1517-4306-8dda-7278e8272226",
+    "packageName": "com.microsoft.teams.m365lp",
+    "developer": {
+        "name": "Teams Customer Advocacy Group",
+        "websiteUrl": "https://urldefense.com/v3/__https://aka.ms/MicrosoftAdoption__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lSOga80g$  ",
+        "privacyUrl": "https://urldefense.com/v3/__https://aka.ms/privacy__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lfBfeZBE$  ",
+        "termsOfUseUrl": "https://urldefense.com/v3/__https://aka.ms/m365lpdocs__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lSVeDB62$  ",
+        "mpnId": "CA01101011"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "Get Started",
+        "full": "Getting Started with Microsoft 365"
+    },
+    "description": {
+        "short": "Training tools for Microsoft 365 applications",
+        "full": "Get started with on-demand training for Microsoft 365.  Give feedback at https://urldefense.com/v3/__https://aka.ms/AdoptionFeedback__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1laJglDR5$  "
+    },
+    "accentColor": "#DC3E15",
+    "staticTabs": [
+        {
+            "entityId": "201911011330",
+            "name": "Training Portal",
+            "contentUrl": "https://urldefense.com/v3/__https://eversourceenergy.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=*sites*O365Training__;Ly8!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lTesu5Ew$  ",
+            "websiteUrl": "https://urldefense.com/v3/__https://eversourceenergy.sharepoint.com/sites/O365Training__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lWnV_Uxi$  ",
+            "scopes": [
+                "personal"
+            ]
+        },
+        {
+            "entityId": "201911011335",
+            "name": "Microsoft Teams",
+            "contentUrl": "https://urldefense.com/v3/__https://eversourceenergy.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=*sites*O365Training*SitePages*Get-started-with-Microsoft-Teams.aspx__;Ly8vLw!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1leFx7TQj$  ",
+            "websiteUrl": "https://urldefense.com/v3/__https://eversourceenergy.sharepoint.com/sites/O365Training/SitePages/Microsoft-Teams-Training.aspx__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lXv2O2NE$  ",
+            "scopes": [
+                "personal"
+            ]
+        },            
+ 	{
+            "entityId": "201911011330",
+            "name": "Sharepoint",
+            "contentUrl": "https://urldefense.com/v3/__https://eversourceenergy.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=*sites*O365Training__;Ly8!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lTesu5Ew$  ",
+            "websiteUrl": "https://urldefense.com/v3/__https://eversourceenergy.sharepoint.com/sites/O365Training/SitePages/SharePoint-Training.aspx__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lXTndHAa$  ",
+            "scopes": [
+                "personal"
+            ]
+        },
+	{
+            "entityId": "201911011330",
+            "name": "Power Platform",
+            "contentUrl": "https://urldefense.com/v3/__https://eversourceenergy.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=*sites*O365Training__;Ly8!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lTesu5Ew$  ",
+            "websiteUrl": "https://urldefense.com/v3/__https://eversourceenergy.sharepoint.com/sites/O365Training/SitePages/Power-Platform-Best.aspx__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1lXMZ2CC7$  ",
+            "scopes": [
+                "personal"
+            ]
+        }   
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ],
+    "validDomains": [
+        "*.login.microsoftonline.com",
+        "*.sharepoint.com",
+        "*.sharepoint-df.com",
+        "spoppe-a.akamaihd.net",
+        "spoprod-a.akamaihd.net",
+        "resourceseng.blob.core.windows.net",
+        "msft.spoppe.com"
+      ],
+      "webApplicationInfo": {
+        "id": "00000003-0000-0ff1-ce00-000000000000",
+        "resource": "https://urldefense.com/v3/__https://eversourceenergy.sharepoint.com__;!!A_2VBGNDm7Y!oj4xsbskTgNi5w9JjFoSH7wrVcOWTdYu68oelH4vFHES2UebWfd2fPR4bdHC_Hx0NXIkWPTKbF_yHCGZA1hpntKJw9d1leWxYsN4$  "
+    }
+}
